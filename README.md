@@ -45,7 +45,7 @@ baixar do projeto https://github.com/shiftkey/desktop
 
 
 # Hello World!
-First Repository of the Git and GuitHub Course, available at _ ** CursoemVideo ** _, Teacher Guanabara (GitHub Profile @gustavoguanabara).
+First Repository of the Git and GuitHub Course, available at _**CursoemVideo**_, Teacher Guanabara (GitHub Profile @gustavoguanabara).
 
 Repository created during the course of the Video Course Recorded in live format!
 
@@ -54,34 +54,34 @@ Classes at (https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9
 Support gear @gafanhotos
 
 ***
-** Windows 10 installation **
+**Windows 10 installation**
 
-** 1. ** Visual Studio Code Tool (https://code.visualstudio.com/)
+**1.** Visual Studio Code Tool (https://code.visualstudio.com/)
 
-** 2. ** Git-SCM (https://git-scm.com/downloads)
+**2.** Git-SCM (https://git-scm.com/downloads)
 
-** 3. ** GitHub Desktop (https://desktop.github.com/)
+**3.** GitHub Desktop (https://desktop.github.com/)
 
 ***
-** Linux Ubuntu installation **
+**Linux Ubuntu installation**
 
-** 1. ** Installing Google Chrome
+**1.** Installing Google Chrome
 If the lesson model goes wrong (https://linuxhint.com/ubuntu_20-04_google_chrome_installation_guide)
 
 
-** 2. ** Terminal To update Linux
+**2.** Terminal To update Linux
 sudo apt update
 sudo apt upgrade -y
 https://linuxhint.com/ubuntu_20-04_google_chrome_installation_guide
 
-** 3. ** Installing GIT
+**3.** Installing GIT
 sudo apt install git -y
 git --version
 
-** 4. ** Install Visual Studio Code
+**4.** Install Visual Studio Code
 https://code.visualstudio.com/
 
-** 5. ** Install Guithub Desktop
+**5.** Install Guithub Desktop
 follow this citizen https://github.com/shiftkey
 download project https://github.com/shiftkey/desktop
 
