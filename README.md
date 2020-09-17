@@ -15,6 +15,16 @@ Material público para o ensino básico de Git e Github para alunos iniciantes. 
 - [Conteúdo disponível em aulas no YouTube - Canal Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA).
 - [Acesso o Manual de Markdown em PDF](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
 
+
+Essa página foi criada com base no curso, e adaptada para aprendizado e compartilhamento 
+
+Eu sou Alexandre Afonso,
+https://github.com/AlexandreSAfonso
+https://www.linkedin.com/in/alexandresafonso/
+
+
+
+***
 ***
 **Instalação Windows 10**
 
