@@ -14,7 +14,7 @@ Material público para o ensino básico de Git e Github para alunos iniciantes. 
 - [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/git-github/tree/master/slides-aulas)
 - [Conteúdo disponível em aulas no YouTube - Canal Curso em Vídeo](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA).
 - [Acesso o Manual de Markdown em PDF](https://github.com/gustavoguanabara/git-github/tree/master/manuais-PDF)
-- Site para imagens de perfil [do Gti](https://octodex.github.com/)
+- Site para imagens de perfil [do Git](https://octodex.github.com/)
 
 Essa página foi criada com base no curso, e adaptada para aprendizado e compartilhamento 
 
@@ -53,8 +53,8 @@ git --version
 **4.** Instalar o [Visual Studio Code](https://code.visualstudio.com/)
 
 **5.** Instalr o Guithub Desktop
-seguir esse [cidadão}(https://github.com/shiftkey)
-baixar do !{projeto}(https://github.com/shiftkey/desktop)
+seguir esse [cidadão](https://github.com/shiftkey)
+baixar do [projeto](https://github.com/shiftkey/desktop)
 
 
 ## Direitos de uso
