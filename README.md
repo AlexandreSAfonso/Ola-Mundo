@@ -1,5 +1,5 @@
 # Olá, Mundo!
-Primeiro Rep do Curso Git e GuitHub, disponível em _**CursoemVideo**_, Professor Guanabara (Perfil GitHub @gustavoguanabara ).
+Primeiro Rep do Curso Git e GuitHub, disponível gratuitamente em _**CursoemVideo**_, Professor Guanabara (Perfil GitHub @gustavoguanabara ).
 
 <img src="imagens/mascote.png" align="right" width="300">
 
